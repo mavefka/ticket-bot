@@ -1,0 +1,20 @@
+{
+    "workingHours": {
+        "Pazartesi": "12.00 - 23.00",
+        "Sali": "12.00 - 23.00",
+        "Carsamba": "12.00 - 23.00",
+        "Persembe": "12.00 - 23.00",
+        "Cuma": "12.00 - 23.00",
+        "Cumartesi": "12.00 - 23.59",
+        "Pazar": "12.00 - 23.59"
+    },    
+
+    "token": "token",
+    "parent": "1041706930156093440", 
+    "roleStaffId": "1245454560374292571",
+    "logChannel": "1245752782871461939",
+    "guildid": "1041706928969093140",
+    "voicechannel": "1041706930156093443",
+    "status": "edxproject.com",
+    "ticketbanner": "https://cdn.discordapp.com/attachments/1245752833899368459/1245754044803449033/Adsz.png?ex=6659e65d&is=665894dd&hm=b05d7e9db9b8ea21e5bc822b5161eea32d92fb915c521a1f1f59c2b024f7fcdc&"
+}
